@@ -1,0 +1,142 @@
+.nav{
+    position: absolute;
+    background-color: #CBF1F5;
+    width: 100%;
+    height: 50px;
+    
+    
+
+}
+.logo{
+    position: absolute;
+    background-color: #393E46;
+    width: 50px;
+    height: 40px;
+    margin-left: 3%;
+    margin-top: 5px;
+    
+    
+}
+.nav1{
+    position: absolute;
+    background-color: #393E46;
+    width: 40%;
+    height: 40px;
+    margin-left: 50%;
+    margin-top: 5px;
+    border-radius: 15px;
+}
+.menu1{
+    position: absolute;
+    background-color: #00ADB5;
+    width: 15%;
+    height: 40px;
+    margin-left: 17%;
+    color:#00ADB5 ;
+    text-align: center;
+    font-weight: bold;
+    
+    
+}
+.menu2{
+    position: absolute;
+    background-color: #00ADB5;
+    width: 15%;
+    height: 40px;
+    margin-left: 34%;
+    color:#00ADB5 ;
+    text-align: center;
+    font-weight: bold;
+
+
+
+}
+.menu3{
+    position: absolute;
+    background-color: #00ADB5;
+    width: 15%;
+    height: 40px;
+    margin-left: 51%;
+    color:#00ADB5 ;
+    text-align: center;
+    font-weight: bold;
+
+
+
+}
+.menu4{
+    position: absolute;
+    background-color: #00ADB5;
+    width: 15%;
+    height: 40px;
+    margin-left: 68%;
+    color:#00ADB5 ;
+    text-align: center;
+    font-weight: bold;
+
+
+
+}
+
+.menu1:hover{
+    color: green;
+    font-size: 17px;
+    transition: 0.5s;
+
+}
+.menu2:hover{
+    color: green;
+    font-size: 17px;
+    transition: 0.5s;
+    
+}
+.menu3:hover{
+    color: green;
+    font-size: 17px;
+    transition: 0.5s;
+}
+.menu4:hover{
+    color: green;
+    font-size: 17px;
+    transition: 0.5s;
+}
+.p1{
+    margin-top: 10px;
+}
+.logoimg{
+    opacity: 0;
+    width: 40px;
+    height: 40px;
+    margin-top: 4px;
+    margin-left: 6px;
+}
+.logoimg:hover{
+    opacity: 1;
+    transition: 0.5s;
+}
+.content{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+}
+.content p{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+    color: darkblue;
+    
+}
+hr{
+    width: auto;
+    height: 6px;
+    background-color: #00ADB5;
+    border-radius: 10px;
+}
+.card{
+    display: inline-block;
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: cadetblue;
+    border-radius: 20px;
+}
